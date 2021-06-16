@@ -1,3 +1,4 @@
+package src;
 import java.util.*;
 public class Rectangulo{
 	public static void main(String[] args) {
