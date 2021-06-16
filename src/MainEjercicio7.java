@@ -1,3 +1,4 @@
+package src;
 public class MainEjercicio7{
     public static void main(String[] args) {                                                  
         // Se crean 4 fracciones
