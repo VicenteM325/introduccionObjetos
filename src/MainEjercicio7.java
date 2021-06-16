@@ -11,7 +11,7 @@ public class MainEjercicio7{
         Fraccion resta = f1.restar(f3);
         Fraccion producto = f1.multiplicar(f4);
         Fraccion cociente = f1.dividir(f2);
-        //mostrar resultados
+        //mostrar resultados.
         System.out.println(f1 + " + " + f2 + " = " + suma);
         System.out.println(f1 + " - " + f3 + " = " + resta);
         System.out.println(f1 + " * " + f4 + " = " + producto);
